@@ -48,6 +48,13 @@ cd data_viz_converter
 ```
 
 2.  Install the required libraries:
+
+```bash
     pip install pandas seaborn matplotlib notebook
+```
+
 3.  Launch Jupyter Notebook:
+
+```bash
     jupyter notebook
+```
